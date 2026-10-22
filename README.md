@@ -28,7 +28,7 @@ A role-based support ticket management system built with **ASP.NET Core Web API*
 |---|---|
 | API | ASP.NET Core Web API (.NET 8) |
 | ORM | Entity Framework Core (Code-First) |
-| Database | SQL Server (local) / SQLite (deployment) |
+| Database | SQL Server (local) |
 | Auth | JWT Bearer Authentication |
 | Password Hashing | BCrypt.Net |
 | API Docs | Swagger / OpenAPI |
@@ -178,7 +178,7 @@ HelpdeskApi/
 - Ticket comments / activity history
 - Filtering, search, and pagination on the ticket list
 - Email notifications on assignment/status change
-- Angular frontend (in progress)
+- Angular frontend 
 
 ---
 
